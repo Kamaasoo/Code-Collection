@@ -1,7 +1,32 @@
 <h1 align = "center"> My code collection </h1>
 
-<h2 align = "center"> Welcome! This is my collection of codes made in Python. </h2>
+<h1 align = "center"> Welcome! This is my collection of codes made in Python. </h1>
+
+> - State : Constantly updating. ✔️
 
 This repository is intended to store most of my code made in Python (Most was created for collecting, testing or developing basic applications.)
 
-> Remembering: All codes that you have here, can be reused or modified at your will or need. Use them to try new things or to understand how it works.
+> - Remembering: All codes that you have here, can be reused or modified at your will or need. Use them to try new things or to understand how it works.
+
+## Prerequisites:
+
+> - Python 3.9.7 + ( Or higher versions )
+> - An environment for code execution.
+
+## Alert
+
+> - ❗ Most of the codes here are from simple projects or that I was using for learning. Therefore, they may be poorly optimized, non-functional or have errors.
+> - Codes are subject to update or modification by me in the future.
+> - If you're looking for mini-games, I'm in development to create a repository with only related content.
+
+
+
+
+### Means of contacting me:
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+ ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+  - My comercial email is : kkamasooz@gmail.com
+  - My Discord ID is : Kmsz.sh#5339
+  
+ Thanks for reading!
+####  Sincerely - Kamaso. ![tumblr_728a47cc24eda56859e76382513947c0_82ba9b0c_1280_1](https://user-images.githubusercontent.com/90472141/139562335-a9fccc6a-64a8-483d-8650-affe005bdf71.png)
