@@ -1,4 +1,4 @@
-<h1 align = "center"> My code collection </h1>
+<h1 align = "center"> Python Collection </h1>
 
 <h1 align = "center"> Welcome! This is my collection of codes made in Python. </h1>
 
