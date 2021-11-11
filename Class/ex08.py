@@ -9,7 +9,6 @@ class Macaco:
         self.alimentos = [bucho]
         self.bucho = False
 
-
     def Comer(self, alimento):
         print(f"{self.nome} comeu: {alimento}")
         self.alimentos.append(alimento)
@@ -22,7 +21,6 @@ class Macaco:
     def VerBucho(self):
         if self.bucho:
             print(f"Bucho de {self.nome}: {self.alimentos}")
-
         else:
             print("O alimento ainda não foi digerido.")
 
