@@ -17,7 +17,6 @@ This repository is intended to store most of my code made in Python (Most was cr
 
 > - ❗ Most of the codes here are from simple projects or that I was using for learning. Therefore, they may be poorly optimized, non-functional or have errors.
 > - Codes are subject to update or modification by me in the future.
-> - If you're looking for mini-games, I'm in development to create a repository with only related content.
 
 
 
