@@ -4,5 +4,5 @@ altura = float(input('Agora digite sua altura: '))
 m2 = largur * altura
 litros = m2 / 2
 
-print('Largura - {} x {} Altura - Sua area é de {:.3f}m2'.format(largur,altura,m2))
-print('Será necessário: {}l para pintar: {}m2.'.format(litros,m2))
+print(f'Largura - {largur} x {altura} Altura - Sua area é de {m2:.3f}m2')
+print(f'Será necessário: {litros}l para pintar: {m2}m2.')
