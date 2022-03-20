@@ -1,6 +1,4 @@
-n1 = int(input('Digite um número:'))
-n2 = int(input('Digite outro número:'))
+n1 = int(input("Say one number: "))
+n2 = int(input("Say another number: "))
 
-soma = n1 + n2
-
-print('A soma entre {} e {} é: {}!'.format(n1,n2,soma))
+print(f"The sum between {n1} and {n2} is: {n1+n2}")
