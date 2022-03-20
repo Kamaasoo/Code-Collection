@@ -1,6 +1,2 @@
-n1 = int(input('Digite um número:'))
-
-antecessor = n1 - 1
-sucessor = n1 + 1
-
-print('O sucessor desse número é {} e seu antecessor é {}'.format(sucessor,antecessor))
+n1 = int(input('Say one number: '))
+print(f"The predecessor this number is {n1-1} and the successor is {n1+2}")
