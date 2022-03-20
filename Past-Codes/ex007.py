@@ -1,6 +1,4 @@
-nota1 = float(input('Digite sua primeira nota:'))
-nota2 = float(input('Digite a sua segunda nota:'))
+n1 = float(input('type your first grade:'))
+n2 = float(input('type your second grade:'))
 
-media = (nota1 + nota2) / 2
-
-print('A sua média é de {:.1f}!'.format(media))
+print(f'your average is {(n1 + n2) / 2}')
