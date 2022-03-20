@@ -22,10 +22,10 @@ This repository is intended to store most of my code made in Python (Most was cr
 
 
 ### Means of contacting me:
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
- ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+ ![Gmail](https://img.shields.io/badge/kkamasooz-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+ ![Discord](https://img.shields.io/badge/%3CKmsz%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
   - My comercial email is : kkamasooz@gmail.com
-  - My Discord ID is : Kmsz.sh#5339
+  - My Discord ID is : Kmsz_#5339
   
  Thanks for reading!
 ####  Sincerely - Kamaso. ![tumblr_728a47cc24eda56859e76382513947c0_82ba9b0c_1280_1](https://user-images.githubusercontent.com/90472141/139562335-a9fccc6a-64a8-483d-8650-affe005bdf71.png)
