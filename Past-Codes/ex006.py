@@ -1,9 +1,4 @@
-n1 = int(input('Digite um número:'))
+n1 = int(input('Say one number:'))
 
-dobro = n1 * 2
-triplo = n1 * 3
-raiz = n1 ** (1/2)
-
-print('O dobro de {} é {}!'.format(n1,dobro))
-print('O triplo de {} é {}!'.format(n1,triplo))
-print('A raiz de {} é {}!'.format(n1,raiz))
+print(f"The number is {n1}")
+print(f"your double is {n1*2} \nyour triple is {n1*3} \n5and your root is {n1**0.5}")
