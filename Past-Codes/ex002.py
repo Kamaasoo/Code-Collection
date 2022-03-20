@@ -1,3 +1,2 @@
-nome = str(input('Digite o seu nome:'))
-
-print('Bem vindo {}!'.format(nome))
+name  = input("Type your name: ")
+print(f"Welcome {name}!")
