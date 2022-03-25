@@ -1,5 +1,3 @@
 from math import factorial
-valor = int(input('Digite um valor:'))
-f = factorial(valor)
-
-print('O fatorial de {} é = {} '.format(valor,f))
+value = int(input('Type one value:'))
+print(f"The factorial is {factorial(value)}")
