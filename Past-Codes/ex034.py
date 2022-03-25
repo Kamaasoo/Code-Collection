@@ -1,8 +1,6 @@
-salario = float(input('Digite o seu salário atual:R$'))
+salary = float(input('Type your actual salary:R$ '))
 
-if salario > 1250:
-    calculo = (salario * 10) / 100 + (salario)
-    print('O salário será de :R${:.2f}'.format(calculo))
+if salary > 1250:
+    print(f'The salary will be: :${(salary * 10) / 100 + (salary):.2f}')
 else:
-    calculo = (salario * 15) / 100 + (salario)
-    print('O salário será de:R${:.2f}'.format(calculo))
+    print(f'The salary will be::${(salary * 15) / 100 + (salary):.2f}')
