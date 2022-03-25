@@ -1,5 +1,2 @@
 pre = float(input('Digite o valor do produto: R$'))
-
-descont = pre * 5 / 100
-
-print(' O valor do desconto será de {}'.format(descont))
+print(f'O valor do desconto será de {pre * 5 / 100}')
