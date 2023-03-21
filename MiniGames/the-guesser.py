@@ -14,7 +14,7 @@ while chute != num:
 	chute = int(input('Qual o seu chute?: '))
 	if chute < num:
 		os.system('cls')
-		print(f"{bar}\nOvalor sorteado é maior que {chute}!')
+		print(f"{bar}\nO valor sorteado é maior que {chute}!')
 		tentativa += 1
 	if chute > num:
 		os.system('cls')
