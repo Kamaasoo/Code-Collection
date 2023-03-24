@@ -1,6 +1,6 @@
 <h1 align = "center"> Python Collection </h1>
 
-<h1 align = "center"> Welcome! This is my collection of codes made in Python. </h1>
+<h1 align = "center"> Welcome! This is my code collection in Python. </h1>
 
 > - State : Constantly updating. ✔️
 
@@ -10,7 +10,7 @@ This repository is intended to store most of my code made in Python (Most was cr
 
 ## Prerequisites:
 
-> - Python 3.9.7 + ( Or higher versions )
+> - Python 3.9.7 ( Or higher versions )
 > - An environment for code execution.
 
 ## Alert
@@ -21,11 +21,11 @@ This repository is intended to store most of my code made in Python (Most was cr
 
 
 
-### Means of contacting me:
+### Means of contact:
  ![Gmail](https://img.shields.io/badge/kkamasooz-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
  ![Discord](https://img.shields.io/badge/%3CKmsz%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-  - My comercial email is : kkamasooz@gmail.com
-  - My Discord ID is : Kmsz_#5339
+  - Comercial email : kkamasooz@gmail.com
+  - Discord ID : Kamaasoo_#3073
   
  Thanks for reading!
 ####  Sincerely - Kamaso. ![tumblr_728a47cc24eda56859e76382513947c0_82ba9b0c_1280_1](https://user-images.githubusercontent.com/90472141/139562335-a9fccc6a-64a8-483d-8650-affe005bdf71.png)
