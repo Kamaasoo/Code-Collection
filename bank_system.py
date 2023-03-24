@@ -26,7 +26,7 @@ while option != 3:
 
     if option == 2:
         print(bar)
-        depamount = int(input('Deposit value: ))
+        depamount = int(input('Deposit value: '))
         print(f'Foram depósitados R${depamount} em sua conta.\n{bar}')
 
 if option == 3:
